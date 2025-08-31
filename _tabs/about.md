@@ -4,5 +4,14 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+안녕하세요! 제 블로그에 오신 것을 환영합니다.
+
+저는 소프트웨어 개발에 대한 생각과 경험을 기록하고 공유하는 것을 좋아합니다.
+이 공간에서는 주로 다음과 같은 주제에 대해 다룹니다.
+
+- 웹 개발 (Frontend/Backend)
+- 알고리즘 및 자료구조
+- 개발 문화와 생산성에 대한 생각
+- 가끔은 취미생활..
+
+충분한 의견을 모두와 나누고 싶습니다.
