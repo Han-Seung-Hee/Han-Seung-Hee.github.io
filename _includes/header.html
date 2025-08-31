@@ -1,0 +1,20 @@
+<header
+  class="header-top d-flex justify-content-between align-items-center"
+  role="banner"
+>
+  <div class="me-3">
+    <a href="{{ '/' | relative_url }}" class="site-title fs-3 fw-bold"
+      >{{ site.title }}</a
+    >
+  </div>
+
+  <button
+    class="btn btn-link d-flex d-lg-none"
+    type="button"
+    data-bs-toggle="offcanvas"
+    data-bs-target="#sidebar"
+    aria-controls="sidebar"
+  >
+    <i class="fas fa-bars"></i>
+  </button>
+</header>
